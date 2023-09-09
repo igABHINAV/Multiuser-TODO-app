@@ -41,7 +41,7 @@ To use the TODO app, follow these steps:
 1. Register a new user using the `/user/signup` endpoint.
 2. Log in with your registered username and password using the `/user/login` endpoint.
 3. Use the provided access token for authenticated requests to create, update, and manage tasks.
-4. Access task-related endpoints under `/tasks` to manage your tasks.
+4. Access task-related endpoints under `/tasks` to manage your tasks. To update , view and delete task , use `/tasks/:id` (id of that perticular post) .
 
 ## API Endpoints
 
