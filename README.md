@@ -27,7 +27,7 @@ To run the TODO app locally, follow these installation steps:
 
 1. Clone the project repository.
 2. Install project dependencies.
-3. Set up environment variables by creating a `.env` file.
+3. Set up environment variables by creating a `.env` file (inside config folder as config.env) .
 4. Start the application.
 
 ## Configuration
